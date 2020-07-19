@@ -13,8 +13,10 @@ Masters in Information Technology'20
  
  ### What am I upto now? ###
  I just graduated from my Masters, after doing my last semester on Zoom! Yayy, 2020! 
- 🔭 I’m currently working on MERN stack project to get better in full stack development.
- 🔭 I'm also trying to break into the job market _(Yayy!! 2020 again)_
+ <br/>
+ I’m currently working on MERN stack project to get better in full stack development.
+ <br/>
+ I'm also trying to break into the job market _(Yayy!! 2020 again)_
  
 ### My favorite uni projects ###
  <br/>
@@ -22,10 +24,11 @@ Android Application (https://github.com/type404/Android-Calorie-Tracker-App): Th
  <br/>
 Web Application (https://github.com/type404/CruiseOnWeb): The application uses the database first approach to create a web application in .Net Framework. It has features like captcha verification, send bulk emails, integrate Maps. 
 
- 
+ <br/>
  📫 How to reach me: 
-  <br/>
+ <br/>
  Send me shout on: https://twitter.com/type404_ 
+ <br/>
  You can also find me blog my journey and share my learnings at: https://www.instagram.com/type.404/
  
 
