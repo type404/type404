@@ -21,17 +21,17 @@ Masters in Information Technology'20
 ### My favorite uni projects ###
  <br/>
 [Android Application](https://github.com/type404/Android-Calorie-Tracker-App): 
-</br> The application makes server side calls to RESTful Webservices, the code for the server side is not included in this project repo. It makes use of Public Web APIs like Google Custom Search as well as Food API to fetch and display information about the food item searched. The daily steps are stored in SQLite Database in the application. The application also displays the location of the user as well as parks in a 5 km radius around him on the map screen. The reports genrated is displayed in the form of bar graph and pie chart which makes us of PhilJay library.
+<br/> The application makes server side calls to RESTful Webservices, the code for the server side is not included in this project repo. It makes use of Public Web APIs like Google Custom Search as well as Food API to fetch and display information about the food item searched. The daily steps are stored in SQLite Database in the application. The application also displays the location of the user as well as parks in a 5 km radius around him on the map screen. The reports genrated is displayed in the form of bar graph and pie chart which makes us of PhilJay library.
 <br/>
 [Web Application](https://github.com/type404/CruiseOnWeb):
-</br> The application uses the database first approach to create a web application in .Net Framework. It has features like captcha verification, send bulk emails, integrate Maps. 
+<br/> The application uses the database first approach to create a web application in .Net Framework. It has features like captcha verification, send bulk emails, integrate Maps. 
 
- <br/>
- 📫 How to reach me: 
- <br/>
- Send me shout on: https://twitter.com/type404_ 
- <br/>
- You can also find me blog my journey and share my learnings at: https://www.instagram.com/type.404/
+
+### How to reach me ###
+<br/>
+Send me shout on: https://twitter.com/type404_ 
+<br/>
+You can also find me blog my journey and share my learnings at: https://www.instagram.com/type.404/
  
 
 <!--
