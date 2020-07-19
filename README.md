@@ -1,4 +1,4 @@
-## I'm Tisa _(read Tisha)_. :octocat: ##
+## Hey! I'm Tisa _(read Tisha)_. :octocat: ##
 
 ### Education ###
 <br/>
